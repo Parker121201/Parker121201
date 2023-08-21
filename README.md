@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parker121201
-- 👀 I’m interested in algorithmic trading, machine learning, web development, and app development!
+- 👀 I’m interested in algorithmic trading, machine learning, full-stack development, and app development!
 - 🌱 I’m currently learning Python, C++, and Swift soon!
 - 💞️ I’m looking to collaborate on anything! Reach out with ideas.
 - 📫 Reach out at pmathena@umich.edu with anything!
